@@ -1,7 +1,6 @@
 {
   "name": "jest_tutorial",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest"
@@ -9,6 +8,15 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^27.0.6"
-  }
+    "jest": "^27.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdragon0105/Jest-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sdragon0105/Jest-test/issues"
+  },
+  "homepage": "https://github.com/sdragon0105/Jest-test#readme",
+  "description": ""
 }
